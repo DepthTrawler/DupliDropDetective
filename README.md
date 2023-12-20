@@ -1,9 +1,9 @@
 # DupliDropDetective
-Swiftly identify duplicate files within your folders. This application has a user-friendly drag-and-drop feature and supports command line arguments for enhanced flexibility and automation.
+Swiftly identify duplicate files within your folders. This tool has a user-friendly drag-and-drop feature and supports command line arguments for enhanced flexibility and automation.
 
 ## Description:
 
-Welcome to DupliDropDetective, your go-to solution for effortlessly finding duplicate files on your system! This application offers a user-friendly drag-and-drop feature, allowing you to quickly identify and handle duplicate files within your folders.
+Welcome to DupliDropDetective, your go-to solution for effortlessly finding duplicate files on your system. This tool offers a user-friendly drag-and-drop feature, allowing you to quickly identify and handle duplicate files within your folders.
 
 ## Key Features:
 
@@ -14,7 +14,6 @@ Welcome to DupliDropDetective, your go-to solution for effortlessly finding dupl
 
 ## How to Use:
 
-Ensure you have AutoHotkey v2.0 installed.
 Drag and drop folders onto the application to start the duplicate file search.
 Additionally, this application supports command line functionality, allowing you to provide paths as arguments directly from the shell for a more versatile and automated duplicate file identification process.
 Review the JSON report generated, containing detailed information about the duplicates found.
@@ -26,4 +25,4 @@ Feel free to contribute, report issues, or suggest enhancements!
 ## Credit:
 
 * SHA256 hashing by anonymous1184 (https://github.com/anonymous1184)
-* JSON class by G33kDude (https://github.com/G33kDude) and CloakerSmoker (https://github.com/CloakerSmoker)
+* cJSON class by G33kDude (https://github.com/G33kDude) and CloakerSmoker (https://github.com/CloakerSmoker)
